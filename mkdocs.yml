@@ -1,0 +1,62 @@
+site_name: TestNotes2
+site_url: https://onkeldolf.github.io/TestNotes2
+
+extra_css: # <-------- HERE
+- stylesheets/gruvbox-dark.css
+
+# Might want to delete line bellow??
+index_page: docs/Tasks.md
+theme:
+    name: material
+    palette:
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+
+
+    features:
+    - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks
