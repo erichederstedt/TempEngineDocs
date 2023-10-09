@@ -14,3 +14,5 @@ namespace D3DAPI
     } FrameCBuffer;
 }
 ```
+
+This is used for passing through frame-data to the shaders.
