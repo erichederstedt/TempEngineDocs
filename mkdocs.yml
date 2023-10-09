@@ -1,8 +1,5 @@
-site_name: TestNotes2
+site_name: TempEngineDocs
 site_url: https://onkeldolf.github.io/TestNotes2
-
-extra_css: # <-------- HERE
-- stylesheets/gruvbox-dark.css
 
 # Might want to delete line bellow??
 index_page: docs/Tasks.md
