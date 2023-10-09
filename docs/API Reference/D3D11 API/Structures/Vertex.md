@@ -13,3 +13,7 @@ typedef struct
     float weights[4];
 } Vertex;
 ```
+
+This is the vertex structure that most meshes use.
+
+NOTE: weights have to be normalized
