@@ -11,5 +11,5 @@ Creates a shader.
 ```c++
 D3DAPI::Shader shader = {};
 
-D3DAPI::CreateShader("shaders/main_vs.cso", "shaders/main_ps.cso", globalInputDescArray, globalInputDescArrayCount, &shader);
+D3DAPI::CreateShader("shaders/main_vs.cso", "shaders/main_ps.cso", D3DAPI::defaultInputDescArray, D3DAPI::defaultInputDescArrayCount, &shader);
 ```
