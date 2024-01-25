@@ -1,7 +1,7 @@
 # Override
 
 ```c++
-	bool Override(const uint64_t aPrefabId);
+bool Override(const uint64_t aPrefabId);
 ```
 
 This will override a existing .prefab file and all prefabs active in the scenes
