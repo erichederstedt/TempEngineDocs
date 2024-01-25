@@ -5,6 +5,7 @@ In the top of the scene window there is a menu bar with a few options.
 The first option is changing between World and Local space on the guizmo.
 
 The second is Grid Snapping which has a few options:
+
 1. Snap - Enable/Disable the snapping (Can also be done with left CTRL)
 2. Lock Axis - This will lock so all axis will use the same snap value
 3. Show Grid - This will just enable/disable the grid
