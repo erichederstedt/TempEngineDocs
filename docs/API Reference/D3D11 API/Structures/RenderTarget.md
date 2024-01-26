@@ -16,9 +16,9 @@ Defines the rendertarget abstraction.
 
 
 ### Associated functions
-[CreateRenderTarget](CreateRenderTarget.md)
-[ResizeRenderTarget](ResizeRenderTarget.md)
-[SetRenderTarget](SetRenderTarget.md)
-[UnsetRenderTarget](UnsetRenderTarget.md)
-[ClearRenderTarget](ClearRenderTarget.md)
-[DrawRenderTargetToBackbuffer](DrawRenderTargetToBackbuffer.md)
+[[CreateRenderTarget]]
+[[ResizeRenderTarget]]
+[[SetRenderTarget]]
+[[UnsetRenderTarget]]
+[[ClearRenderTarget]]
+[[DrawRenderTargetToBackbuffer]]

@@ -12,6 +12,6 @@ Defines the constantbuffer abstraction.
 
 
 ### Associated functions
-[CreateConstantBuffer](CreateConstantBuffer.md)
-[UpdateConstantBuffer](UpdateConstantBuffer.md)
-[SetConstantBuffer](SetConstantBuffer.md)
+[[CreateConstantBuffer]]
+[[UpdateConstantBuffer]]
+[[SetConstantBuffer]]

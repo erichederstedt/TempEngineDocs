@@ -17,6 +17,6 @@ Defines a spotlight.
 
 
 ### Associated functions
-[AddSpotLight](AddSpotLight.md)
-[RemoveSpotLight](RemoveSpotLight.md)
-[ClearLights](ClearLights.md)
+[[AddSpotLight]]
+[[RemoveSpotLight]]
+[[ClearLights]]

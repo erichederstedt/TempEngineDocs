@@ -12,5 +12,5 @@ Defines a directionallight.
 
 
 ### Associated functions
-[SetDirectionalLight](SetDirectionalLight.md)
-[ClearLights](ClearLights.md)
+[[SetDirectionalLight]]
+[[ClearLights]]

@@ -17,5 +17,5 @@ Defines the material abstraction.
 
 
 ### Associated functions
-[CreateMaterial](CreateMaterial.md)
-[SetMaterial](SetMaterial.md)
+[[CreateMaterial]]
+[[SetMaterial]]

@@ -20,6 +20,6 @@ Defines the model abstraction.
 
 
 ### Associated functions
-[LoadModel](LoadModel.md)
-[DrawModel](DrawModel.md)
-[DrawModelInstanced](DrawModelInstanced.md)
+[[LoadModel]]
+[[DrawModel]]
+[[DrawModelInstanced]]

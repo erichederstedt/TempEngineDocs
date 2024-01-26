@@ -17,6 +17,6 @@ Defines the sprite abstraction.
 
 
 ### Associated functions
-[CreateSprite](CreateSprite.md)
-[DrawSpriteResolutionWorldSpace](DrawSpriteResolutionWorldSpace.md)
-[DrawSpriteResolutionSpace](DrawSpriteResolutionSpace.md)
+[[CreateSprite]]
+[[DrawSpriteResolutionWorldSpace]]
+[[DrawSpriteResolutionSpace]]
