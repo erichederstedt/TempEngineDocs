@@ -22,4 +22,5 @@ Defines the mesh abstraction.
 [CreateMesh](../Functions/CreateMesh.md)
 [DrawMesh](../Functions/DrawMesh.md)
 [DrawMeshInstanced](../Functions/DrawMeshInstanced.md)
+[DrawMeshInstanced2](DrawMeshInstanced.md)
 [Render](../Functions/Render.md)
