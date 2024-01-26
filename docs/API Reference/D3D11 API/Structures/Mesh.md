@@ -19,7 +19,7 @@ struct Mesh
 Defines the mesh abstraction.
 
 ### Associated functions
-[CreateMesh](CreateMesh.md)
-[DrawMesh](DrawMesh.md)
-[DrawMeshInstanced](DrawMeshInstanced.md)
-[Render](Render.md)
+[[CreateMesh]]
+[[DrawMesh]]
+[[DrawMeshInstanced]]
+[[Render]]
