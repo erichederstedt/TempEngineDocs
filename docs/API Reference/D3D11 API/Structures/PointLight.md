@@ -16,6 +16,6 @@ Defines a pointlight.
 
 
 ### Associated functions
-[AddPointLight](../Functions/AddPointLight.md)
-[RemovePointLight](../Functions/RemovePointLight.md)
-[ClearLights](../Functions/ClearLights.md)
+[AddPointLight](AddPointLight.md)
+[RemovePointLight](RemovePointLight.md)
+[ClearLights](ClearLights.md)

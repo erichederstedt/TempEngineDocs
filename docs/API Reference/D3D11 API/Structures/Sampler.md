@@ -11,5 +11,5 @@ Defines the sample abstraction.
 
 
 ### Associated functions
-[CreateSamplerState](../Functions/CreateSamplerState.md)
-[SetSamplerState](../Functions/SetSamplerState.md)
+[CreateSamplerState](CreateSamplerState.md)
+[SetSamplerState](SetSamplerState.md)

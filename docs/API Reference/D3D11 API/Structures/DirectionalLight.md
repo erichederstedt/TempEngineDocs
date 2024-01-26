@@ -12,5 +12,5 @@ Defines a directionallight.
 
 
 ### Associated functions
-[SetDirectionalLight](../Functions/SetDirectionalLight.md)
-[ClearLights](../Functions/ClearLights.md)
+[SetDirectionalLight](SetDirectionalLight.md)
+[ClearLights](ClearLights.md)

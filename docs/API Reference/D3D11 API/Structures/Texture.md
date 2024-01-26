@@ -14,7 +14,7 @@ Defines the texture abstraction.
 
 
 ### Associated functions
-[CreateTexture](../Functions/CreateTexture.md)
-[LoadTexture](../Functions/LoadTexture.md)
-[SetTexture](../Functions/SetTexture.md)
-[UnsetTexture](../Functions/UnsetTexture.md)
+[CreateTexture](CreateTexture.md)
+[LoadTexture](LoadTexture.md)
+[SetTexture](SetTexture.md)
+[UnsetTexture](UnsetTexture.md)

@@ -15,5 +15,5 @@ Defines the font abstraction.
 
 
 ### Associated functions
-[CreateFont](../Functions/CreateFont.md)
-[DrawFont](../Functions/DrawFont.md)
+[CreateFont](CreateFont.md)
+[DrawFont](DrawFont.md)

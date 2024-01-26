@@ -13,5 +13,5 @@ Defines the line abstraction.
 
 
 ### Associated functions
-[DrawLineArray](../Functions/DrawLineArray.md)
-[DrawLine](../Functions/DrawLine.md)
+[DrawLineArray](DrawLineArray.md)
+[DrawLine](DrawLine.md)

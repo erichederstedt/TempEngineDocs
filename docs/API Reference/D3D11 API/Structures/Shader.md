@@ -13,5 +13,5 @@ Defines the shader abstraction.
 
 
 ### Associated functions
-[CreateShader](../Functions/CreateShader.md)
-[SetShader](../Functions/SetShader.md)
+[CreateShader](CreateShader.md)
+[SetShader](SetShader.md)
