@@ -8,7 +8,7 @@ Do the following to create a material:
 
 ![FindMaterial](MaterialEditorFind.png)
 
-2. In the window there are a few things. 
+In the window there are a few things: 
 
 1. Starting from the top we find the name of the material. Here you can drag an existing material to edit or create a new one using the same textures.
 
