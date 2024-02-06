@@ -1,8 +1,7 @@
+# Metrics
 
+## Player Metrics
 
-# Natdanai Test 
-
-<!-- ![PlayerHeight](Player.png) -->
+![PlayerHeight](Player.png)
 
 - Player Metrics
-
