@@ -5,4 +5,4 @@ Issues with Sprite Alpha
 
 
 Issues with Sprite Size is not render correct
-![SpriteAlphaShader](SoriteSize.png)
+![SpriteAlphaShader](SpriteSize.png)
