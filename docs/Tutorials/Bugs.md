@@ -1,0 +1,3 @@
+# Bugs
+
+![SpriteAlphaShader](SpriteAlpha.png)
