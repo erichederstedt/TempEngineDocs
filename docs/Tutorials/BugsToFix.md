@@ -1,4 +1,4 @@
-# Bugs
+# BugsToFix
 
 Issues with Sprite Alpha
 ![SpriteAlphaShader](SpriteAlpha.png)
